@@ -2,7 +2,7 @@
 
 Low_Loader is login and password authorization, without checking HWID or other hardware, and it is clear from its code that it was made purely for fun and possibly for teaching those just starting out.
 
-# loader functions
+# Loader functions
 Login and password verification for correctness
 
 # License
